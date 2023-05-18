@@ -4,13 +4,13 @@
 ## Implemented the research paper (in the same repo) (Knowledge-Based Systems ELSEVIER).
 
 ## Methodology
-add image
+![alt text](Method.png)
 
 ## info-graphic of method
-add image
+![alt text](infoGraphic.png)
 
 ## Implementation details
-add image
+![alt text](Implementation.png)
 
 ## Results
-add image
+![alt text](Results.png)
