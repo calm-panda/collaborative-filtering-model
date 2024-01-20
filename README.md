@@ -1,5 +1,5 @@
 # Multi criteria Collaborative Filtering Model
-### Multi criteria Collaborative Filtering Model using Deep Learning
+Multi criteria Collaborative Filtering Model using Deep Learning
 
 ## Implemented the research paper (in the same repo) (Knowledge-Based Systems ELSEVIER).
 
